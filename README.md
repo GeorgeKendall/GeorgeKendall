@@ -1,6 +1,4 @@
-## Hello, I'm George 🤘
----
-
+## Hello, I'm George **(he/him)**🤘
 <!--
 **GeorgeKendall/GeorgeKendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -13,3 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
+### About me
+- 🎓 I hold a First Class Hons degree in Computer Science, building on this with a Masters in Health Data Science with goals to move into research positions.
+- 💻 My work experience lies within upper management, leading multi-disciplinary teams through projects. Currently transitioning into more relevant project work to my post-grad course
