@@ -1,4 +1,4 @@
-## Hello, I'm George **(he/him)**🤘
+## Hello, I'm George _(he/him)_🤘
 <!--
 **GeorgeKendall/GeorgeKendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
